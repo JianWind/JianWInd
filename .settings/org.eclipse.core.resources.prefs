@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/jianwind/fj/dao/AppointmentDao.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/dao/BookDao.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/dto/AppointExecution.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/dto/Result.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/entity/Appointment.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/service/BookService.java=UTF-8
+encoding//src/main/java/com/jianwind/fj/service/impl/BookServiceImpl.java=UTF-8
